@@ -6,3 +6,8 @@
 [(author PDF)](http://cnel.ufl.edu/files/1389293595.pdf)
 
 ![](http://cnel.ufl.edu/~ajbrockmeier/metric/test.png)
+
+### MATLAB code:
+#### [cmd_simple_test.m](./cmd_simple_test.m) is a test script
+#### [CAML.m](./CAML.m) is the metric learning optimization algorithm for a batch of data.
+#### [CAML_approx.m](./CAML_approx.m) uses mini-batches for large datasets with vectors in Euclidean space.
